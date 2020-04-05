@@ -1,0 +1,9 @@
+dev path for portfolio
+
+edit logo
+input copy on the page
+add portfolio pieces
+edit each portfolio piece
+create contact 
+make it live
+host website
