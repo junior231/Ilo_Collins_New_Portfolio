@@ -102,9 +102,8 @@ if(isset($_POST['submit'])){
         </p>
 
         <div class="about-me__body">
-            <p>I am a full time student at Fanshawe College, London. During the week, i spend my time writing codes, graphic designing and watching online tutorials for motion design. On the Weekends, i spend my time watching soccer and writing even more codes (fun, right?)</p>
-            <p>I find fulfilment in turning ideas into reality. I am a Self Starter who also thrives in a collaborative environment. </p>
-            <a href="#" class="resume">View Resume</a>
+            <p>I am a Frontend and Backend Web Developer with a passion for solvong problems. I find fulfilment in turning ideas into reality. I am a Self Starter who also thrives in a collaborative environment. </p>
+            <a href="https://drive.google.com/file/d/16wr0dxb3Mk7y6wHPCWYgaqjOoJqFxHAa/view?usp=sharing" class="btn">View Resume</a>
         </div>
 
 
@@ -212,7 +211,7 @@ if(isset($_POST['submit'])){
                 <a href="#" class="social-list__link"><i class="fab fa-twitter"></i></a>
             </li>
             <li class="social-list__item">
-                <a href="#" class="social-list__link"><i class="fab fa-github-square"></i></a>
+                <a href="https://github.com/junior231" class="social-list__link"><i class="fab fa-github-square"></i></a>
             </li>
             <li class="social-list__item">
                 <a href="#" class="social-list__link"><i class="fab fa-instagram-square"></i></a>
@@ -221,6 +220,8 @@ if(isset($_POST['submit'])){
                 <a href="#" class="social-list__link"><i class="fab fa-codepen"></i></a>
             </li>
         </ul>
+
+        <p class="copy">&copy; 2020 Collins Ilo<p>
 
 
     </footer>

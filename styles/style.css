@@ -610,7 +610,7 @@ label{
 .headings {
     text-align: center;
     margin: .5em .5em;
-    color: var(--clr-accent);
+    color: var(--clr-dark);
 }
 
 .sub-headings {
