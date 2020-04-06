@@ -66,6 +66,12 @@ section {
     padding: 3em 1.5em;
 }
 
+video {
+    padding: 2em;
+    max-width: 100%;
+    height: auto;
+}
+
 :focus {
     /* padding: 1rem; */
     outline: 1px solid var(--clr-accent);

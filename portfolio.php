@@ -69,7 +69,7 @@ require_once 'scripts/contact.php';
             <h3 class="sub-headings">Final Look</h3>
             <img src="images/chat_app_3.jpg" alt="Image Of Chat App Interface" class="inner-image">
             <img src="images/chat_app_2.jpg" alt="Image of Chat App Interface" class="inner-image">
-            <a href="#" class="btn">Github Repository</a>
+            <a href="https://github.com/junior231/ilo_collins_ChatApp" class="btn">Github Repository</a>
         </div>
     </div>
 
@@ -95,7 +95,7 @@ require_once 'scripts/contact.php';
         <img src="images/sportchek_mockup_3.jpg" alt="Image Of SportChek CMS Interface" class="inner-image">
         <img src="images/sportchek_admin" alt="Image of Admin Page" class="inner-image">
 
-        <a href="#" class="btn">Github Repository</a>
+        <a href="https://github.com/grahamvickers/sportchek_cms" class="btn">Github Repository</a>
         </div>
     </div>
 
@@ -106,7 +106,7 @@ require_once 'scripts/contact.php';
         <p class="port-text">This is a Cool Drumkit App, come up with some nice beat combos by simply pushing the keys on your keyboard. Combine sounds to come up with a catchy tune.</p>
         <img src="images/drumkit.jpg" alt="Image of Drumkit App" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, and Javascript</h3>
-        <a href="#" class="btn">Github Repository</a>
+        <a href="https://github.com/junior231/JavaScript_DrumKit" class="btn">Github Repository</a>
         </div>
     </div>
 
@@ -117,7 +117,7 @@ require_once 'scripts/contact.php';
         <p class="port-text">This is Drag and Drop App which lets you solve various Picture Puzzles. Drag and drop the images on the left into the boxes on the right and try to come up with the perfect image.</p>
         <img src="images/drag_n_drop.jpg" alt="Image of the Drag and Drop App" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, and Javascript</h3>
-        <a href="#" class="btn">Github Repository</a>
+        <a href="https://github.com/junior231/Drag_and_Drop" class="btn">Github Repository</a>
         </div>
     </div>
 
@@ -128,29 +128,29 @@ require_once 'scripts/contact.php';
         <p class="port-text">Check out this really cool Audio App. One of the first Apps i built and designed with simple Javascript. Play, Pause or Rewind your favourite tunes and let the good times roll.</p>
         <img src="images/audio_app.jpg" alt="Image of the Audio App Interface" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, and Javascript</h3>
-        <a href="#" class="btn">Github Repository</a>
+        <a href="https://github.com/junior231/Audio" class="btn">Github Repository</a>
        </div>
     </div>
 
     <div id="ontario" class="portfolio-item-individual">
       <div class="inner-pic">
       <h2 class="headings">Ontario Summer</h2>
-        <p class="port-text">This is a Website and Ad Campaign promoting a fun summer in Ontario. This was a Hackathon group task for school and had to be done in 24hrs.</p>
+        <p class="port-text">This is a Website and Ad Campaign promoting a fun summer in Ontario. This was a Hackathon group task for school and had to be completed in 24hrs.</p>
         <img src="images/ontario.jpg" alt="Image of Ontario Summer Logo" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, SASS, Vue.js, PHP, MySQL and Javascript</h3>
         <h4 class="headings"><strong>Role: </strong>Lead Back-end Developer</h4>
-        <a href="#" class="btn">Github Repository</a>
+        <a href="https://github.com/junior231/ilo_Macdonald_Nick_Farag_Kaur_Hackathon_2020" class="btn">Github Repository</a>
       </div>
     </div>
 
     <div id="cliff" class="portfolio-item-individual">
        <div class="inner-pic">
-       <h2 class="headings">Cliffs Creatives</h2>
-       <p class="port-text">This is an Ad Agency a group of friends and i came up with for a school project. We also designed a website and a created a video that tells you what the Ad Agency is all about.</p>
+       <h2 class="headings">Cliffs Creatives Branding Agency</h2>
+       <p class="port-text">This is a Branding Agency a group of friends and i came up with for a school project in 10 days. Logo, images and text had to be original, we also designed a website and a created a video that tells you what the Agency is all about.</p>
        <img src="images/logo-cliff.jpg" alt="Image of Ontario Summer Logo" class="inner-image">
        <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, SASS, Adobe Illustrator, Photoshop, Adobe Premier Pro and JavaScript</h3>
         <h4 class="headings"><strong>Role: </strong>Lead Back-end Developer</h4>
-        <a href="#" class="btn">Github Repository</a>
+        <a href="https://github.com/MalekFarag/farag_m_ilo_c_shahfazlollahi_n_boot_camp" class="btn">Github Repository</a>
        </div>
     </div> 
 
@@ -160,7 +160,9 @@ require_once 'scripts/contact.php';
         <p class="port-text">This is Sports Data Visualization Project using futuristic HUD designs to higlight various strengths and abilities of an athlete. As a tribute to the Late Kobe Bryant, we decided to make him the athlete in focus, for this group project for school.</p>
         <img src="images/mamba.jpg" alt="Image of Kobe" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> Adobe Illustrator, Adobe After Effects and Adobe Premier</h3> 
-        <a href="#" class="btn">Github Repository</a>
+        <h4 class="headings">Watch Video</h4>
+        <video src="video/kobe_vid.mp4" controls autoplay mute></video>
+
         </div>
     </div> 
 
@@ -170,7 +172,7 @@ require_once 'scripts/contact.php';
         <p class="port-text">This is a Flashback App designed and created as a retro streaming platform for old movies, tv-shows and music from the 50s to 80s. Take a flashback, by going o a trip down memory lane.</p>
         <img src="images/roku_mockup.jpg" alt="Image of Roku Flashback login screen" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong>HTML5, CSS3, Vue.js, SASS, Gulp.js, PHP, MYSQL, Node.js and JavaScript</h3> 
-        <a href="#" class="btn">Github Repository</a>
+        <a href="https://github.com/junior231/Ilo_C_Gajjar_K_Roku_Flashback" class="btn">Github Repository</a>
         </div>
     </div> 
 
@@ -180,7 +182,6 @@ require_once 'scripts/contact.php';
         <p class="port-text">Checkout this Poster designed for an Ad campaign against teenage vaping and E-cig usage. This was created as a school project for Health Canada.</p>
         <img src="images/e-cig_ad.jpg" alt="Image of Poster" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong>Adobe Illustrator and Photoshop</h3>
-        <a href="#" class="btn">Github Repository</a> 
         </div>
     </div> 
 
