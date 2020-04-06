@@ -160,7 +160,7 @@ require_once 'scripts/contact.php';
         <p class="port-text">This is Sports Data Visualization Project using futuristic HUD designs to higlight various strengths and abilities of an athlete. As a tribute to the Late Kobe Bryant, we decided to make him the athlete in focus, for this group project for school.</p>
         <img src="images/mamba.jpg" alt="Image of Kobe" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> Adobe Illustrator, Adobe After Effects and Adobe Premier</h3> 
-        <h4 class="headings">Watch Video</h4>
+        <h4 class="headings">Watch Video Below</h4>
         <video src="video/kobe_vid.mp4" controls autoplay mute></video>
 
         </div>
