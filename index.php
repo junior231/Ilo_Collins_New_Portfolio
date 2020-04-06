@@ -82,12 +82,6 @@ if(isset($_POST['submit'])){
                 <h3>Design</h3>
                 <p class="text">Graphic and Motion Designer. Logos, Infographics, short-videos, posters, online and Print Ad designs.</p>
             </div>
-
-            <!-- <div class="service">
-                <h3>Wordpress</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, quis voluptatum sint rem dolores nihil, quia tempore, nam ex magni nisi necessitatibus. Quisquam non nulla dolorum esse, quia fugiat excepturi?</p>
-            </div> -->
-
             
 
         </div>
