@@ -57,13 +57,13 @@ require_once 'scripts/contact.php';
 
         <div class="inner-pic">
             <h3 class="sub-headings">Purpose & Objective </h3>
-            <p class="port-text">The main objective was to create a chat application that enables users to send and receive chat messages in a chat room. At the end of the day, the goal was to have a functioning chat application that can be enhanced or left as is, and be deployed in any environment.</p>
+            <p class="port-text">The main objective was to create a chat application that enables users to send and receive messages in a chat room.</p>
 
             <h3 class="sub-headings">How it was executed</h3>
-            <p class="port-text">Started off with a basic HTML form and styling with CSS/SASS. The next step was to make the Chat Application dynamic i.e. Enable two-way messaging. This was achieved using the Vue.js Framework, Node.js and Express. The Node.js, Express handlebars and Vue.js Framework provided the tools for the Server/Client two-way binding and Dynamic Routing. 
+            <p class="port-text">Started off with an HTML form and styling with CSS/SASS. The next step was to make the Chat Application dynamic i.e. Enable two-way messaging. This was achieved using the Vue.js Framework, Node.js and Express HandleBars. The Node.js, Express handlebars and Vue.js Framework provided the tools for Server/Client two-way binding and Dynamic Routing. 
             
             <img src="images/chat_app_1.jpg" alt="Image of Chat App Signup Page" class="port-img inner-image">
-            <br><br>To Validate the User before entering the Chat room, i included a Login Page. I also displayed the current users online on the Chat App once Login is complete. This let's other users know when someone leaves or enters the chat room.</p>
+            <br><br>To Validate the User before entering the Chat room, i included a Login Page. I also displayed the current users online on the Chat App once Login is complete. This lets other users know when someone leaves or enters the chat room.</p>
             
             
             <h3 class="sub-headings">Final Look</h3>
@@ -76,22 +76,22 @@ require_once 'scripts/contact.php';
     <!-- sportschek cms -->
     <div id="sportschek" class="portfolio-item-individual">
         <h2 class="headings">SportChek CMS </h2>
-        <p>This is a an Online store and Content Mangement Sytem built and designed as a school project for Sportchek.</p>
+        <p>This is a Custom Content Mangement Sytem built and designed as a school project for Sportchek.</p>
         <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, SASS, Javascript, PHP, MySQL</h3>
 
         <h4 class="headings"><strong>Role: </strong>Lead Back-end Developer</h4>
         
         <div class="inner-pic">
         <h3 class="sub-headings">Purpose & Objective </h3>
-        <p class="port-text">The main objective was to design an Online Store with Pictures all sourced from the SportChek website, and also create Content Management System (CMS) that allows an Administrator to Create new products, Edit products and Delete products of the website.</p>
+        <p class="port-text">The main objective was to design an Online Store with pictures all sourced from the SportChek website, and also create a Content Management System (CMS) that allows an Administrator to Create new products, Edit products and Delete products on the website.</p>
 
         <h3 class="sub-headings">How it was executed</h3>
-        <p class="port-text">First, we had to gather all the images/products displayed on the website, from the Official SportChek website. Then we had to create a database for the products using MySQL. Once the Database was created, we had to establish Client/Server Side connection using PHP to dyanmically display on the products currently in the database on the website. Filters and a Search area were also added to make the user experience more enjoyable.
+        <p class="port-text">First, we had to gather all the images/products displayed on the website, from the official SportChek website. Then we had to create a database for the products using MySQL. Once the Database was created, we had to establish Client/Server Side connection using PHP to dyanmically display all the products currently in the database on the website. Filters and a Search area were also added to make the user experience more enjoyable.
         
         <img src="images/sportchek_mockup_4.jpg" alt="SportChek CMS Mockup" class="port-img inner-image">
         <img src="images/sportchek_mockup_2.jpg" alt="Image of SportChek CMS Interface" class="inner-image">
         
-        <br><br>An Admin Page was also created to allow admin create, edit and delete products. For validation, the admin has to log in to be able to carry out these tasks.</p>
+        <br><br>An Admin Page was also created to allow the admin create, edit and delete products. For validation, the admin has to log in to be able to carry out these tasks.</p>
         <img src="images/sportchek_mockup_3.jpg" alt="Image Of SportChek CMS Interface" class="inner-image">
         <img src="images/sportchek_admin" alt="Image of Admin Page" class="inner-image">
 
@@ -135,7 +135,7 @@ require_once 'scripts/contact.php';
     <div id="ontario" class="portfolio-item-individual">
       <div class="inner-pic">
       <h2 class="headings">Ontario Summer</h2>
-        <p class="port-text">This is a Website and Ad Campaign promoting a fun summer in Ontario. This was a Hackathon group task for school and had to be completed in 24hrs.</p>
+        <p class="port-text">This is a Website and Ad Campaign promoting a summer of fun in Ontario. This was a Hackathon group task for school and had to be completed in 24hrs.</p>
         <img src="images/ontario.jpg" alt="Image of Ontario Summer Logo" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, SASS, Vue.js, PHP, MySQL and Javascript</h3>
         <h4 class="headings"><strong>Role: </strong>Lead Back-end Developer</h4>
@@ -157,11 +157,11 @@ require_once 'scripts/contact.php';
     <div id="kobe" class="portfolio-item-individual">
         <div class="inner-pic">
         <h2 class="headings">Data Visualization</h2>
-        <p class="port-text">This is Sports Data Visualization Project using futuristic HUD designs to higlight various strengths and abilities of an athlete. As a tribute to the Late Kobe Bryant, we decided to make him the athlete in focus, for this group project for school.</p>
+        <p class="port-text">This is a Sports Data Visualization Project using original futuristic HUD designs to higlight various strengths and abilities of an athlete. As a tribute to the Late Kobe Bryant, we decided to make him the athlete in focus, for this group project for school.</p>
         <img src="images/mamba.jpg" alt="Image of Kobe" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong> Adobe Illustrator, Adobe After Effects and Adobe Premier</h3> 
         <h4 class="headings">Watch Video Below</h4>
-        <video src="video/kobe_vid.mp4" controls autoplay mute></video>
+        <video src="video/kobe_vid.mp4" controls></video>
 
         </div>
     </div> 
@@ -169,7 +169,7 @@ require_once 'scripts/contact.php';
     <div id="roku" class="portfolio-item-individual">
         <div class="inner-pic">
         <h2 class="headings">Roku Flashback App</h2>
-        <p class="port-text">This is a Flashback App designed and created as a retro streaming platform for old movies, tv-shows and music from the 50s to 80s. Take a flashback, by going o a trip down memory lane.</p>
+        <p class="port-text">This is a Flashback App designed and created as a retro streaming platform for old movies, tv-shows and music from the 50s to 80s. Take a flashback, by going on a trip down memory lane.</p>
         <img src="images/roku_mockup.jpg" alt="Image of Roku Flashback login screen" class="inner-image">
         <h3 class="headings"><strong>Built with:</strong>HTML5, CSS3, Vue.js, SASS, Gulp.js, PHP, MYSQL, Node.js and JavaScript</h3> 
         <a href="https://github.com/junior231/Ilo_C_Gajjar_K_Roku_Flashback" class="btn">Github Repository</a>

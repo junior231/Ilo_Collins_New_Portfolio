@@ -102,7 +102,7 @@ if(isset($_POST['submit'])){
         </p>
 
         <div class="about-me__body">
-            <p>I am a Frontend and Backend Web Developer with a passion for solvong problems. I find fulfilment in turning ideas into reality. I am a Self Starter who also thrives in a collaborative environment. </p>
+            <p>I am a Frontend and Backend Web Developer with a passion for solving problems. I find fulfilment in turning ideas into reality. I am a Self Starter who also thrives in a collaborative environment. </p>
             <a href="https://drive.google.com/file/d/16wr0dxb3Mk7y6wHPCWYgaqjOoJqFxHAa/view?usp=sharing" class="btn">View Resume</a>
         </div>
 
