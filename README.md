@@ -17,4 +17,4 @@ You must have the following programs installed to view the application:
 * Download repo
 * Start WAMP/MAMP
 * Put repo folder in www directory.
-* Open the porject @ localhost/foldername
+* Open the project @ localhost/foldername
