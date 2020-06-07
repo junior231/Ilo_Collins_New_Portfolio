@@ -122,13 +122,14 @@ require_once 'scripts/contact.php';
     </div>
 
 
-    <div id="Audio" class="portfolio-item-individual">
+    <div id="Hiv" class="portfolio-item-individual">
        <div class="inner-pic">
-       <h2 class="headings">Audio App</h2>
-        <p class="port-text">Check out this really cool Audio App. One of the first Apps i built and designed with simple Javascript. Play, Pause or Rewind your favourite tunes and let the good times roll.</p>
-        <img src="images/audio_app.jpg" alt="Image of the Audio App Interface" class="inner-image">
-        <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, and Javascript</h3>
-        <a href="https://github.com/junior231/Audio" class="btn">Github Repository</a>
+       <h2 class="headings">RHAC London Safe Sex Campaign</h2>
+        <p class="port-text">This is a campaign we came up with to discuss and promote safe and healthy sexual behaviour in the LBGTQA+ community.</p>
+        <img src="images/hiv_aids_mockup.jpg" alt="Image of Hiv/Aids Mockup" class="inner-image">
+        <h3 class="headings"><strong>Built with:</strong> HTML5, SASS, Javascript, MySQL, PHP</h3>
+        <h4 class="headings"><strong>Role: </strong>Front-end Developer</h4>
+        <a href="https://github.com/MalekFarag/farag_ilo_macdonald_shahfazlollahi_fip_" class="btn">Github Repository</a>
        </div>
     </div>
 

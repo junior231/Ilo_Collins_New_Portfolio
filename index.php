@@ -97,7 +97,7 @@ if(isset($_POST['submit'])){
 
         <div class="about-me__body">
             <p>I am a Frontend and Backend Web Developer with a passion for solving problems. I find fulfilment in turning ideas into reality. I am a Self Starter who also thrives in a collaborative environment. </p>
-            <a href="https://drive.google.com/file/d/16wr0dxb3Mk7y6wHPCWYgaqjOoJqFxHAa/view?usp=sharing" class="btn">View Resume</a>
+            <a href="https://drive.google.com/file/d/1WFdUZHIVw9Gblsy8b4QPbW9gNCOhZtJC/view?usp=sharing" class="btn">View Resume</a>
         </div>
 
 
@@ -128,8 +128,8 @@ if(isset($_POST['submit'])){
                 <img src="images/drumkit.jpg" class="portfolio__img" alt="image of drumkit app">
             </a>
 
-            <a href="portfolio.php#Audio" class="portfolio__item">
-                <img src="images/audio_app.jpg" class="portfolio__img" alt="image of audio app">
+            <a href="portfolio.php#Hiv" class="portfolio__item">
+                <img src="images/hiv_aids_mockup.jpg" class="portfolio__img" alt="mockup of Hiv Campaign">
             </a>
 
             <a href="portfolio.php#chat-app" class="portfolio__item">
@@ -202,16 +202,16 @@ if(isset($_POST['submit'])){
     <footer class="footer">
         <ul class="social-list">
             <li class="social-list__item">
-                <a href="#" class="social-list__link"><i class="fab fa-twitter"></i></a>
+                <a href="https://twitter.com/Ilominati" class="social-list__link"><i class="fab fa-twitter"></i></a>
             </li>
             <li class="social-list__item">
                 <a href="https://github.com/junior231" class="social-list__link"><i class="fab fa-github-square"></i></a>
             </li>
             <li class="social-list__item">
-                <a href="#" class="social-list__link"><i class="fab fa-instagram-square"></i></a>
+                <a href="https://www.instagram.com/ilominati231/" class="social-list__link"><i class="fab fa-instagram-square"></i></a>
             </li>
             <li class="social-list__item">
-                <a href="#" class="social-list__link"><i class="fab fa-codepen"></i></a>
+                <a href="https://www.linkedin.com/in/collins-ilo-37498a193/?msgControlName=reply_to_sender&msgConversationId=6662125395372060673&msgOverlay=true" class="social-list__link"><i class="fab fa-linkedin-in"></i></i></a>
             </li>
         </ul>
 
