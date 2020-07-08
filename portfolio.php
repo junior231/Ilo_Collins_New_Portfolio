@@ -93,7 +93,7 @@ require_once 'scripts/contact.php';
         
         <br><br>An Admin Page was also created to allow the admin create, edit and delete products. For validation, the admin has to log in to be able to carry out these tasks.</p>
         <img src="images/sportchek_mockup_3.jpg" alt="Image Of SportChek CMS Interface" class="inner-image">
-        <img src="images/sportchek_admin" alt="Image of Admin Page" class="inner-image">
+        <img src="images/sportchek_admin.jpg" alt="Image of Admin Page" class="inner-image">
 
         <a href="https://github.com/grahamvickers/sportchek_cms" class="btn">Github Repository</a>
         </div>
