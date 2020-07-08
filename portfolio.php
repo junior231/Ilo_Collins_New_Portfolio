@@ -54,6 +54,7 @@ require_once 'scripts/contact.php';
         <p class="port-flex">This is a Chat App i designed and built as a school project during my program at Fanshawe College. It is simple and super easy to use. Get chatting with friends and have some fun.</p>
 
         <h3 class="headings"><strong>Built with:</strong> HTML5, CSS3, SASS, Javascript, Express, Vue.js</h3>
+        <h4 class="headings"><strong>Role: </strong>Lead Back-end and Front-end Developer</h4>
 
         <div class="inner-pic">
             <h3 class="sub-headings">Purpose & Objective </h3>
